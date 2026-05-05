@@ -2,7 +2,7 @@
 
 My public knowledge base — frontend dev notes, tools, and references I keep coming back to.
 
-Live at: https://gherbetto.github.io/your-repo-name
+Live at: https://gherbetto.github.io/docs
 
 ## Stack
 
